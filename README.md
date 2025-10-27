@@ -1,5 +1,5 @@
 # CTkinter-calculator
-simple calculator with some cool features, top display, backspace button, minimalistic gui and extra functions. I had alot of help from chatgpt since i had zero clue how to use custom tkinter, but this project definitely helped me understand the CTKINTER syntaxes. Ive never used tkinter or ctkinter before.
+simple calculator with some cool features, top display, backspace button, minimalistic gui and extra functions. I had some help from chatgpt since i had zero clue how to use custom tkinter, but this project definitely helped me understand the CTKINTER syntaxes. Ive never used tkinter or ctkinter before.
 
 
 like my other projects theres definitly bugs, havent polished anything but might in the future once i have a better understanding of the syntaxes for ctkinter.
